@@ -1,0 +1,27 @@
+body{color: black;
+    background-color: azure;}
+h1{background-color:rgb(246, 248, 142);
+    color: red;
+    width: 500px;
+    height: 55px;
+   text-align: center;
+   margin: 0 auto;
+   border: solid yellowgreen;
+   border-radius:10px;
+    font-size: 50px;
+    font-style: italic;
+    font-weight:900;
+    text-decoration:underline;}
+img{display: block;
+    margin: 0 auto;
+    border: 5px solid yellowgreen;}
+h2{color: red;
+font-family:Verdana;
+text-align: center;}
+.bloco{
+    border: 5px solid yellowgreen;
+    background-color: azure;
+    width: 600px;
+    height:200px;
+    margin: 0 auto;
+}
